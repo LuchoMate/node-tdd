@@ -1,0 +1,21 @@
+{
+  "name": "todo-tdd",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --watchAll"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.2",
+    "mongoose": "^6.1.4",
+    "node-mocks-http": "^1.11.0"
+  },
+  "devDependencies": {
+    "jest": "^27.4.5",
+    "supertest": "^6.1.6"
+  }
+}
